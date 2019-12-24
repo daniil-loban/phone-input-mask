@@ -21,3 +21,6 @@ const MyForm = () => {
 ```
 
 demo - https://daniil-loban.github.io/phone-input-mask/
+
+## Known Issues
+### doesn't work on android
