@@ -1,0 +1,5 @@
+input::selection {
+  background: lightgoldenrodyellow;
+  color: black;
+  text-shadow: 1px 0px 0 black;
+}
