@@ -19,3 +19,5 @@ const MyForm = () => {
   );
 };
 ```
+
+demo - https://daniil-loban.github.io/phone-input-mask/
